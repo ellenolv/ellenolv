@@ -6,7 +6,11 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenolv&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
- 
+
+<div align="center">  
+<a href="https://www.linkedin.com/in/ellen-de-oliveira-pereira-4509321b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
+
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
