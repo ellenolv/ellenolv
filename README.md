@@ -1,22 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F11&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ellen+de+Oliveira;I'm+19+years+old;I+am+from+Itu,+SP;I+study+analysis+and+systems+development+at+FATECA;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ellenolv&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ellen de Oliveira Pereira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenolv&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ellenolv&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenolv&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ellenolv&theme=gotham)
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ellenolv&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.linkedin.com/in/ellen-de-oliveira-pereira-4509321b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
+<br>
  
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -36,7 +25,7 @@
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
@@ -53,7 +42,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ellenolv}/count.svg" /></p> 
 
 <br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <!--
 
