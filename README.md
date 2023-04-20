@@ -47,13 +47,13 @@
 
 <br></div>
 
-````
-<h1>Insira codigo html</h1>
-
-````
-
-
 <!--
+
+````html
+<h1>Insira codigo html</h1>
+<img align="center" src="https://profile-counter.glitch.me/{ellenolv}/count.svg" />
+
+````
 
 Badges de tecnologias que não uso ainda
 
