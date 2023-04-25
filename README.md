@@ -6,7 +6,7 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenolv&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
-
+<!--
 <div align="left">  
 <a href="https://www.linkedin.com/in/ellen-de-oliveira-pereira-4509321b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
@@ -40,7 +40,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=TypeScript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-
+-->
   <!-- contador de visitantes-->
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ellenolv}/count.svg" /></p> 
