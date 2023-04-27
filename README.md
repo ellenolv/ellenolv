@@ -1,4 +1,4 @@
-<[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F11&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F11&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
   
@@ -40,7 +40,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=TypeScript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-  //contador de visitantes
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ellenolv}/count.svg" /></p> 
 
