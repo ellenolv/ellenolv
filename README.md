@@ -1,126 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F11&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div>
-  
-  
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenolv&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
-
-<div align="left">  
-  
-<a href="https://www.linkedin.com/in/ellen-de-oliveira-pereira-4509321b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
-
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-
-### Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=TypeScript&labelColor=0D1117&textColor=0D1117)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A0DAD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Be+Welcome!+:%29)](https://git.io/typing-svg)
+# 💫 About Me:
+### Sobre Mim<br><br>👋 Olá! Sou a Ellen, uma programadora fullstack apaixonada e estagiária de suporte de redes. Atualmente, estou aprimorando minhas habilidades no mundo da programação e redes. Aqui está um pouco mais sobre mim:<br><br>- 🖥️ Atualmente, estou trabalhando como estagiária em suporte de redes, onde estou adquirindo experiência prática em solução de problemas, manutenção de redes e atendimento ao cliente.<br><br>- ☕ Estou estudando Programação Orientada a Objetos (POO) usando Java.<br><br>- 🍃 Além disso, estou explorando o mundo do MongoDB, um banco de dados NoSQL. Explorar os domínios da gestão e armazenamento de dados tem sido desafiador e gratificante.<br><br>- 📚 Sou estudante da Fatec Campus Itu, onde estou cursando ADS, com previsão de formatura em dezembro de 2024. A educação é uma jornada contínua, e estou empolgada com o que virá a seguir.<br><br>- 💻 Como programadora, sou apaixonada pelo mundo do desenvolvimento fullstack, e adoro criar aplicações que ganham vida.<br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ellen-de-oliveira-pereira-4509321b9/) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ellenolv&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ellenolv&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ellenolv&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ellenolv}/count.svg" /></p> 
+---
+[![](https://visitcount.itsvg.in/api?id=ellenolv&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<br></div>
-
-<!--
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ellenolv&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-
-<div style="display: inline_block"><br>
-  <h2>Knowledge</h2>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Json" height="30" width="40" src="./github/json-file.svg">
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="./github/206_programming-sql-data-database-512.webp">
-  <img align="center" alt="ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="./github/c.svg">
-</div>
-  <br />
-  <div>
-    <h2>About me</h2>
-    <ul>
-      <li>Main skills on BackEnd, specially on Node.js and Python</li>
-      <li>I can work with ReactJS, Native , HTML and CSS as front-end languages</li>
-      <ul>
-        <h3>Academics</h3>
-        <li>Advanced english (C2), I have studied for 10 years on Cultura Inglesa and completed the whole course</li>
-        <li>Physics and Mathematic are my favorites subjects, that's why I prefer back-end</li>
-        <li>Third period on Systems Analisys and Development on Senai Suiço Brasileiro Paulo Ernesto Tolle</li>
-        <li>Currently on third year of High School</li>
-      </ul>
-      <ul>
-        <h3>Contact me</h3>
-        <li>paluganpedro@gmail.com ➡ <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></li>
-        <li>pedro palugan#7687 ➡ <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></li>
-        <li><a href='https://www.linkedin.com/in/pedro-palugan-618a00219/' target='_blank'>Linkedin</a> ➡ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></li>
-      </ul>
-    </ul>
-  </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-````html
-<h1>Insira codigo html</h1>
-<img align="center" src="https://profile-counter.glitch.me/{ellenolv}/count.svg" />
-
-````
-
-Badges de tecnologias que não uso ainda
-
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
-
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
